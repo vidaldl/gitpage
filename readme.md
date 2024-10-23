@@ -6,3 +6,4 @@
 
 1. Why commits may not be verified 
 2. How to fork a respository
+3. Testing new changes for the new branch
